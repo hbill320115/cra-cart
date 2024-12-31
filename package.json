@@ -2,7 +2,7 @@
   "name": "rca-20241230",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/hbill320115/cra-cart",
+  "homepage": "https://hbill320115.github.io/cra-cart",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "cra-template": "1.2.0",
@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
   },
   "eslintConfig": {
     "extends": [
